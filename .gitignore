@@ -1,0 +1,7 @@
+# Default ignored files
+
+.idea/
+"Computer_Vision.pptx"
+relabel.ipynb
+venv
+TensorFlow/training_products_shelf/images
