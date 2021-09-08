@@ -17,3 +17,4 @@ TensorFlow/workspace/training_products_shelf/annotations/*.record
 # Pretrained models and models
 TensorFlow/workspace/training_products_shelf/pre-trained-models/*
 TensorFlow/workspace/training_products_shelf/models/*
+TensorFlow/models/
