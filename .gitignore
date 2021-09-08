@@ -1,7 +1,19 @@
-# Default ignored files
-
+# Hidden files, virtual environment, presentation and relabelling of annotations
 .idea/
 Computer Vision.pptx
 relabel.ipynb
 venv
-TensorFlow/training_products_shelf/images/
+
+# Images and annotations
+TensorFlow/workspace/training_products_shelf/images/all
+TensorFlow/workspace/training_products_shelf/images/all_label
+TensorFlow/workspace/training_products_shelf/images/train/*.xml
+TensorFlow/workspace/training_products_shelf/images/test/*.xml
+TensorFlow/workspace/training_products_shelf/images/train/*.jpg
+TensorFlow/workspace/training_products_shelf/images/test/*.jpg
+TensorFlow/workspace/training_products_shelf/annotations/label_map.pbtxt
+TensorFlow/workspace/training_products_shelf/annotations/*.record
+
+# Pretrained models and models
+TensorFlow/workspace/training_products_shelf/pre-trained-models/*
+TensorFlow/workspace/training_products_shelf/models/*
