@@ -4,7 +4,7 @@ Computer Vision.pptx
 relabel.ipynb
 venv
 
-# Images and annotations
+# Images and annotations (TensorFlow)
 TensorFlow/workspace/training_products_shelf/images/all
 TensorFlow/workspace/training_products_shelf/images/all_label
 TensorFlow/workspace/training_products_shelf/images/train/*.xml
@@ -18,3 +18,10 @@ TensorFlow/workspace/training_products_shelf/annotations/*.record
 TensorFlow/workspace/training_products_shelf/pre-trained-models/*
 TensorFlow/workspace/training_products_shelf/models/*
 TensorFlow/models/
+
+# Images and results
+analysis/MD21/images/all
+analysis/MD21/images/all_filter
+
+# Cache
+__pycache__
