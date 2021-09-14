@@ -6,4 +6,4 @@ This is my capstone project for a data science bootcamp (The Data Incubator). It
 ## Description
 The project follows the TensorFlow Object Detection API Tutorial. The GitHub repository does not include the images and labelling. To train the model on a different set of images, include them in the images folder and annotate them as explained in the TensorFlow tutorial.
 
-The Jupyter notebook data_exploration.ipynb provides a feel for how the data looks like. It uses functions defined in object_detection.py. The notebook main.ipynb trains the model using the TensorFlow folder. 
+The Jupyter notebook data_exploration.ipynb provides a feel for how the data looks like. It uses functions defined in object_detection_sabine.py. The notebook main.ipynb trains the model using the TensorFlow folder. 
