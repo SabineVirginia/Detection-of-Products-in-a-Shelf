@@ -2,7 +2,7 @@
 .idea/
 Computer Vision.pptx
 relabel.ipynb
-# venv
+venv
 
 # Images and annotations (TensorFlow)
 TensorFlow/workspace/training_products_shelf/images/all
