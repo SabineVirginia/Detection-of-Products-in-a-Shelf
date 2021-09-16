@@ -13,6 +13,7 @@ TensorFlow/workspace/training_products_shelf/images/train/*.jpg
 TensorFlow/workspace/training_products_shelf/images/test/*.jpg
 TensorFlow/workspace/training_products_shelf/annotations/label_map.pbtxt
 TensorFlow/workspace/training_products_shelf/annotations/*.record
+images/2021/*.jpg
 
 # Pretrained models and models
 TensorFlow/workspace/training_products_shelf/pre-trained-models/*
