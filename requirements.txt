@@ -93,7 +93,6 @@ py-cpuinfo==8.0.0
 pyarrow==4.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycocotools @ git+https://github.com/philferriere/cocoapi.git@2929bd2ef6b451054755dfd7ceb09278f935f7ad#subdirectory=PythonAPI
 pycparser==2.20
 pydot==1.4.2
 Pygments==2.9.0
