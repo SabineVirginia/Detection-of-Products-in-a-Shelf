@@ -14,8 +14,8 @@ TensorFlow/workspace/training_products_shelf/images/train/*.jpg
 TensorFlow/workspace/training_products_shelf/images/test/*.jpg
 TensorFlow/workspace/training_products_shelf/annotations/label_map.pbtxt
 TensorFlow/workspace/training_products_shelf/annotations/*.record
-images/2021/*.jpg
-images/my_2021/*.jpg
+images/2021/*
+images/my_2021/*
 
 # Pretrained models and models
 TensorFlow/workspace/training_products_shelf/pre-trained-models/*
@@ -27,7 +27,6 @@ TensorFlow/workspace/training_products_shelf/exporter_main_v2.py
 analysis/MD21/images/all
 analysis/MD21/images/all_filter
 image_np_with_detections.npy
-data_exploration.ipynb
 
 # Retailer list
 retailers.txt
