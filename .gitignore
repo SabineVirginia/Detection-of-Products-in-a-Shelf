@@ -30,3 +30,6 @@ image_np_with_detections.npy
 
 # Retailer list
 retailers.txt
+
+# Pitch
+pitch/*
