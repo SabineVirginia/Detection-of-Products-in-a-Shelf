@@ -26,6 +26,8 @@ TensorFlow/workspace/training_products_shelf/exporter_main_v2.py
 analysis/MD21/images/all
 analysis/MD21/images/all_filter
 image_np_with_detections.npy
+object_relabelling.npy
+image_relabelling.npy
 
 # Retailer list
 retailers.txt
