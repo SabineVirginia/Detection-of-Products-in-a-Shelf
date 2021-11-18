@@ -18,11 +18,12 @@ I annotate the data myself with LabelImg making sure that...
 I annotate the products of interest, design features of displays, and shelves.
 
 ## Relabelling of Annotation
-I use this repo for different purposes. Since I do not want to go through the entire code when filenames and annotations change, I have a script that relabels the train and test data (relabel_train.ipynb) as well as a script that relabels the analyzed data (relabel_analysis.ipynb). The relation between old labels and new labels are saved in npy-files.
+I use this repo for different purposes. I have a script that relabels the train and test data (relabel_train.ipynb) as well as a script that relabels the data for analysis (relabel_analysis.ipynb). The relation between original and new labels are saved in npy-files.
 
 ## Annotation Check
 The script annotation_check.ipynb checks whether all images have been labelled and plots a random sample of images with annotation.
 
 ## Object Detection
-The script main.ipynb follows the TensorFlow Object Detection API Tutorial and detects annotated products, design features and shelves.
+The script main.ipynb follows the TensorFlow Object Detection API Tutorial. The script tensorflow_to_excel.ipynb loads the model and detects products, design features of displays and shelves. The detected objects are saved in an excel-file.
+
 

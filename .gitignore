@@ -2,6 +2,7 @@
 .idea/
 venv
 Computer Vision.pptx
+image_information.ipynb
 relabel_analysis.ipynb
 
 # Images and annotations (TensorFlow)
@@ -27,11 +28,13 @@ analysis/MD21/images/all
 analysis/MD21/images/all_filter
 image_np_with_detections.npy
 object_relabelling.npy
-image_relabelling.npy
+train_image_relabelling.npy
+analysis_image_relabelling.npy
 
 # Retailer list
-retailers.txt
+image_information.txt
 relabel_train.txt
+relabel_analysis.txt
 
 # Pitch
 pitch/*
