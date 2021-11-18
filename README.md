@@ -26,4 +26,5 @@ The script annotation_check.ipynb checks whether all images have been labelled a
 ## Object Detection
 The script main.ipynb follows the TensorFlow Object Detection API Tutorial. The script tensorflow_to_excel.ipynb loads the model and detects products, design features of displays and shelves. The detected objects are saved in an excel-file.
 
-
+## Display Analysis
+The script display_analysis.ipynb analyzes a particular set of displays. I look at the differences in the type of display that different retailers set up during the same promotion, and how different retailers typically stacked the displays.
