@@ -1,7 +1,6 @@
 # Hidden files, virtual environment, presentation and relabelling of annotations
 .idea/
 venv
-Computer Vision.pptx
 image_information.ipynb
 relabel_analysis.ipynb
 
