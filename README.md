@@ -30,4 +30,4 @@ The script main.ipynb follows the TensorFlow Object Detection API Tutorial. The 
 The script geo_info.ipynb looks up store location information using an excel table with additional information about the images. I add the address, longitude and latitude to the excel-file with image information using the Google Maps API. In addition, I extract the ZIP code from the address in order to determine the province in which the store is located.
 
 ## Display Analysis
-The script display_analysis.ipynb analyzes a particular set of displays. I look at the differences in the type of display that different retailers set up during the same promotion, and how different retailers typically stacked the displays.
+The script display_analysis.ipynb analyzes a particular set of displays. I look at the differences in the types of displays that different retailers set up during the same promotion. I also checked how different retailers typically stacked the displays. More specifically, I checked the number of facings of two specific products and how many shelves were empty or used for other products.
