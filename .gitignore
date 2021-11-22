@@ -34,6 +34,7 @@ analysis_image_relabelling.npy
 image_information.txt
 relabel_train.txt
 relabel_analysis.txt
+retailer.txt
 
 # Pitch
 pitch/*
