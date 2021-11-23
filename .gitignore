@@ -23,8 +23,7 @@ TensorFlow/models/
 TensorFlow/workspace/training_products_shelf/exporter_main_v2.py
 
 # Images and results
-analysis/MD21/images/all
-analysis/MD21/images/all_filter
+analysis
 image_np_with_detections.npy
 object_relabelling.npy
 train_image_relabelling.npy
