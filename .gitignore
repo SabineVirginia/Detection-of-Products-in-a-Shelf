@@ -2,7 +2,6 @@
 .idea/
 venv
 image_information.ipynb
-relabel_analysis.ipynb
 
 # Images and annotations (TensorFlow)
 TensorFlow/workspace/training_products_shelf/images/all
